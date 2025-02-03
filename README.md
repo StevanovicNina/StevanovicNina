@@ -1,6 +1,6 @@
 ## Hi there, I'm Nina Stevanović! 👋🌺
 I am a beginner in the tech world, passionate about UI/UX design, web development and data science.
-## About me☁️
+## About me ☁️
 📍  I'm from Serbia\
 🎓 I'm a student at Faculty of Organizational Sciences @ University of Belgrade\
 🚴 When I'm not by my PC, I enjoy cycling or any outdoor activities\
@@ -13,3 +13,5 @@ I am a beginner in the tech world, passionate about UI/UX design, web developmen
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
